@@ -1,6 +1,6 @@
 # VeriStandAutomationWithLogging
 
-Provided by Andres Gomez on 10/4/19. Notes on the classes used within the .py files:
+Provided by Andres Gomez on 10/4/19. Edited by Chad Erickson on 10/7/19. Notes on the classes used within the .py files:
 
 •	veristand_logging.py is a separate file that contains two classes and that the customer can reuse and expand.
 
